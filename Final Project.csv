@@ -1,0 +1,21 @@
+﻿Name,A,B,House Type,Water Source,Water Ph,Occupation,Yearly Income,Number of Member, Market Distance
+Sample 1,89.65573439,25.9369312,Brick building,Tubewell,7,Bussinessman,200000,,0
+Sample 2,89.59921631,25.92252318,Tinsheed,Tubewell,7.1,Bussinessman,50000,6,1
+Sample 3,89.65775981,25.76538923,Brick building,Tubewell,6,Bussinessman,300000,4,1
+Sample 4,89.60454962,25.65674138,Brick building,Tubewell,6.9,Bussinessman,150000,7,0
+Sample 5,89.75707903,25.60717968,Brick building,Tubewell,8.1,Farmer,70000,9,1
+Sample 6,89.66796514,25.55645269,Tinsheed,Tubewell,6.5,Farmer,80000,,0
+Sample 7,89.58266287,25.75776785,Brick building,Tubewell,5.8,Farmer,,5,0
+Sample 8,89.62603137,25.69619362,Tinsheed,Tubewell,6.5,Farmer,350000,6,1
+Sample 9,89.77364452,25.49681554,Brick building,Tubewell,7,Farmer,180000,3,0
+Sample 10,89.60173125,25.96778889,Tinsheed,Tubewell,8.5,Vendor,150000,2,1
+Sample 11,89.66823287,26.08779228,Brick building,Tubewell,8.5,Vendor,,5,1
+Sample 12,89.69624055,25.89727627,Brick building,Tubewell,7,Vendor,200000,8,0
+Sample 13,89.66085903,26.02742202,Brick building,Tubewell,4,Vendor,,,0
+Sample 14,89.81627207,25.64980501,Tinsheed,Tubewell,7.45,Vendor,50000,4,1
+Sample 15,89.82481961,25.50496239,Brick building,Tubewell,6.87,Vendor,140000,5,0
+Sample 16,89.64772237,25.6243981,Tinsheed,Tubewell,3.5,Vendor,,6,0
+Sample 17,89.76338676,25.80830415,Tinsheed,Tubewell,8.5,Bussinessman,70000,,1
+Sample 18,89.82399821,25.89374909,Tinsheed,Tubewell,7.32,Bussinessman,260000,7,1
+Sample 19,89.52115458,25.74004657,Tinsheed,Tubewell,9,Farmer,,,0
+Sample 20,89.74873649,25.95082549,Brick building,Tubewell,7.5,Bussinessman,500000,4,1
